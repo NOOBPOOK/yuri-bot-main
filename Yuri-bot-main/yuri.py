@@ -424,4 +424,4 @@ async def crickethelp(ctx):
     myEmbed.set_author(name="Yuri's Moderation#2333")
     await ctx.send(embed=myEmbed)
 
-client.run("OTcwNjg3MDY5MjU5MTk4NDc0.Gn8xbQ.t90Z9sTDNgsu7EF5eg-luJ7Ap78DrXUKbI8MzY")
+client.run("**BOT TOKEN**")
